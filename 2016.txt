@@ -1,7 +1,7 @@
 Student    Status
 =================
 Reed       HERE
-Annika
+Annika    Here
 Kevin G   HERE
 Brian H     HERE
 Kevin K	   PRESENT
