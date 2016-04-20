@@ -1,0 +1,16 @@
+Student    Status
+=================
+Reed       HERE
+Annika
+Kevin G
+Brian
+Kevin K	   PRESENT
+Danial M
+Divya	   HERE
+Marcus
+Karen
+Mark
+Pankti
+Karthi	Here
+Kira
+Dan Magee
